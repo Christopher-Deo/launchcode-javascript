@@ -50,8 +50,9 @@ console.log("-------------------------------------");
 console.log("> OVERALL STATUS");
 console.log("-------------------------------------");
 console.log("* Clear for takeoff: YES");
-    
+
 
 
 
 // When done, have your TA check your code.
+// https://replit.com/@webdevdeo/Studio-Data-and-Variables#index.js
