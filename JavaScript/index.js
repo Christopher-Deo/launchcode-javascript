@@ -14,7 +14,6 @@ let fuelLevel = "100%";
 let weatherStatus = "clear";
 
 
-
 // Write code to generate the LC04 report here:
 console.log("-------------------------------------");
 console.log("> LC04 - LAUNCH CHECKLIST");
