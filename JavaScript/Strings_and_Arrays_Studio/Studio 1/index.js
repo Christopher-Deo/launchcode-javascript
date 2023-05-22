@@ -4,8 +4,7 @@ let str = "LaunchCode";
 
 //a) Use string methods to remove the first three characters from the string and add them to the end.
 //Hint - define another variable to hold the new string or reassign the new string to str.
-let newStr = str.slice(3) + str.slice(0,3);
-
+let newStr = str.slice(3) + str.slice(0, 3);
 
 //Use a template literal to print the original and modified string in a descriptive phrase.
 console.log(`The old string is ${str} and the new string is ${newStr}.`);
@@ -21,4 +20,7 @@ let num2 = input.question("Enter the number of letters that will be relocated: "
 if (num2 > str.length) {
     num2 = 3;
     console.log("The number you entered is longer than the word. Defaulting to 3.");
-    }
+}
+    
+
+
